@@ -52,6 +52,6 @@ except:
     pass
 print(GREEN + "[+] Launching Main Tool..." + RESET)
 try:
-    __import__("VT7")._____Exception()
+    __import__("VT8")._____Exception()
 except Exception as e:
     exit(RED + str(e) + RESET)
