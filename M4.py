@@ -47,11 +47,11 @@ print(RED + "[+] " + GREEN + "Connecting to Server..." + RESET)
 get_network_info()
 print(RED + "\n[+] Opening Telegram Channel..." + RESET)
 try:
-    os.system('xdg-open https://t.me/SPM0S')
+    os.system('xdg-open https://t.me/myin2006')
 except:
     pass
 print(GREEN + "[+] Launching Main Tool..." + RESET)
 try:
-    __import__("VT6")._____Exception()
+    __import__("VT7")._____Exception()
 except Exception as e:
     exit(RED + str(e) + RESET)
